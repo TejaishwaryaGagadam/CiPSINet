@@ -19,7 +19,7 @@ If you use any of the contents of this repository please cite:
 @article{parfitt2021cipsinet,
   title={CiPSI and CiPSINet: a New Dataset and Network for Finding Cars in Panchromatic Satellite Images},
   author={Parfitt, Benjamin and Gagadam, Tejaishwarya},
-  journal={International Conference on Machine Learning and Applications(ICMLA)},
+  journal={International Conference on Machine Learning and Applications(ICMLA), in press},
   year={2021}
 }
 ```
