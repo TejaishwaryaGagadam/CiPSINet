@@ -1,5 +1,5 @@
 # CiPSINet
-Supporting code and available data for CiPSI and CiPSINet
+Supporting code and available data for CiPSI and CiPSINet. Figures are shown below.
 
 ![](figures/Fig1.png)
 
